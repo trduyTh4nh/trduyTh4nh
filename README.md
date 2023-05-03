@@ -6,7 +6,7 @@
 4. Các ngôn ngữ mình đã dùng nhiều: Javascript, CSS, SQL, Java, C#.
 5. 💪 Tục ngữ có câu: "Một đời là IT suốt đời là IT" (tự chế) mình sẽ cố gắng cho đến khi đặt được mục tiêu số 2
 
-<h1 align="center">Hi 👋, I'm Duy Thanh</h1>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
