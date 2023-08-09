@@ -1,4 +1,8 @@
 # 👋👋 Xin chào, mình là Duy Thanh!
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trduyTh4nh&theme=github) 
+
 <!-- ## Một xíu thông tin về mình
 1. 🎓 Mình hiện đang học chuyên nghành CNPM ở HUFLIT.
 2. 🏁 Mục tiêu của mình là trở thành một lập trình viên Full-stack;
