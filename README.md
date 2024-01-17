@@ -1,4 +1,4 @@
-# 👋👋 Xin chào, mình là Duy Thanh!
+
 
 ![](https://komarev.com/ghpvc/?username=trduyTh4nh&color=green)
 
