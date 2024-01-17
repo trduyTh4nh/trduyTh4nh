@@ -2,6 +2,7 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trduyTh4nh&theme=github) 
+![](https://komarev.com/ghpvc/?username=trduyTh4nh&color=green)
 
 
 <h3 align="left">Connect with me:</h3>
