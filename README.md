@@ -1,4 +1,5 @@
 # 👋👋 Xin chào, mình là Duy Thanh!
+
 ![](https://komarev.com/ghpvc/?username=trduyTh4nh&color=green)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Backend+Developer;Full-stack+Developer;Java-Developer;)
