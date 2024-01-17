@@ -3,4 +3,4 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trduyTh4nh&theme=github) 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Backend+Developer;Tech+Blogger;NLP+Engineer;Full-stack+Developer;Java-Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Backend+Developer;Full-stack+Developer;Java-Developer;)
