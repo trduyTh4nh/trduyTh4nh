@@ -1,4 +1,4 @@
-Trần Duy Thanh, sinh viên khoa CNTT, HUFLIT
+<h1>Trần Duy Thanh, sinh viên khoa CNTT, HUFLIT</h1>
 
 ![](https://komarev.com/ghpvc/?username=trduyTh4nh&color=green)
 
