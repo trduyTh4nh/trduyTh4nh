@@ -1,4 +1,8 @@
-<h1>Trần Duy Thanh, sinh viên khoa CNTT, HUFLIT</h1>
+<h1>Trần Duy Thanh</h1>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ![](https://komarev.com/ghpvc/?username=trduyTh4nh&color=green)
 
