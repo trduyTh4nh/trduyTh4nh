@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=trduyTh4nh&color=red)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Backend+Developer+🔙;Full-stack+Developer+🌝;Java+Developer+☕;Và+em+💗)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Backend+Developer+🔙;Full-stack+Developer+🌝;Java+Developer+☕;Front-end+ReactJS;and+you+💗)
 
 <img src="https://github-readme-stats.vercel.app/api?username=trduyTh4nh&show_icons=true&count_private=true"> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trduyTh4nh&layout=compact&langs_count=5">
 
