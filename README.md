@@ -9,7 +9,7 @@
 
 ![](https://komarev.com/ghpvc/?username=trduyTh4nh&color=red)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Backend+Developer+🔙;Full-stack+Developer+🌝;Backend-Deveoper+☕;Front-end+ReactJS;and+you+💗)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Backend+Developer+🔙;Full-stack+Developer+🌝;NodeJS-Deveoper+☕;Front-end+ReactJS;and+you+💗)
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="display: flex; align-items: center;">
