@@ -14,7 +14,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="display: flex; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=trduyTh4nh&show_icons=true&count_private=true" style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trduyTh4nh&layout=compact&langs_count=5">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trduyTh4nh&layout=compact&langs_count=6">
   </div>
 </div>
 
