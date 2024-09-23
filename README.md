@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Steve</h1>
-<h3 align="center">A passionate student from Viet Nam. I'm a 3rd year student at HUFLIT. I make YouTube videos at: https://www.youtube.com/@thanhtranduy1916</h3>
+<h3 align="center">A passionate student from Viet Nam. I'm a final year student at HUFLIT. I make YouTube videos at: https://www.youtube.com/@thanhtranduy1916</h3>
 
 
 <div id="header" align="center">
