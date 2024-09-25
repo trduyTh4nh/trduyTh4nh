@@ -9,12 +9,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 > ![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Backend+Developer+🔙;Full-stack+Developer+🌝;NodeJS-Developer+☕;Front-end+ReactJS;and+you+💗)
->
-> [![View count](https://visitcount.itsvg.in/api?id=trduyTh4nh&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=trduyTh4nh)
+> 
+> ![](https://komarev.com/ghpvc/?username=trduyTh4nh&color=red)
+<!-- > [![View count](https://visitcount.itsvg.in/api?id=trduyTh4nh&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=trduyTh4nh) -->
 
 
 
-<!-- ![](https://komarev.com/ghpvc/?username=trduyTh4nh&color=red) -->
 
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
